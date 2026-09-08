@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+ 
+# Virtual environment
+.venv/
+venv/
+env/
+ 
+# Django
+*.log
+local_settings.py
+db.sqlite3
+resumes/
+media/
+ 
+# Environment variables / secrets
+.env
+.env.local
+ 
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ 
+# Migrations are usually kept in version control for this project size,
+# but uncomment the next two lines if you'd rather regenerate them fresh:
+# */migrations/*.py
+# !*/migrations/__init__.py
+ 
