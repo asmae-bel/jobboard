@@ -32,7 +32,7 @@ A backend for a job board platform, built with **Django**, **Django REST Framewo
 
 **1. Clone the repo and create a virtual environment**
 ```bash
-git clone https://github.com/asmae-bel/jobboard.git
+git clone https://github.com/asmae-bel/jobboard
 cd jobboard
 python -m venv .venv
 .venv\Scripts\Activate.ps1   # Windows
